@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate Registration, Login, Headline, Articles functionality" errors="0" tests="8" failures="0" time="0.461" timestamp="2022-11-10T17:09:34">
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="register new user" time="0.062"></testcase>
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="login user" time="0.056"></testcase>
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="update headline" time="0.055"></testcase>
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="get headline" time="0.043"></testcase>
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="get articles" time="0.045"></testcase>
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="get article id" time="0.045"></testcase>
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="add an article" time="0.143"></testcase>
+  <testcase classname="Validate Registration, Login, Headline, Articles functionality" name="logout user" time="0.012"></testcase>
+</testsuite>
+</testsuites>
